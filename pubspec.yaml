@@ -1,5 +1,9 @@
 name: modbus_client_serial_over_tcp
 description: This is the Modbus Client (ASCII and RTU) package sending requests to a remote device via TCP/IP connection.
+topics:
+  - Modbus Client
+  - RTU over TCP/IP
+  - RTU over Websocket
 version: 1.0.0
 repository: https://github.com/FourLeafTec/modbus_client_serial_over_tcp
 
