@@ -15,7 +15,6 @@ void main() {
       //     host: '192.168.1.9',
       //     port: 6000,
       //     unitId: 1);
-      // await rtuClient.connect();
 
       // final el = ModbusInt16Register(
       //   name: 'test02',
@@ -35,7 +34,7 @@ void main() {
       //     host: '192.168.1.9',
       //     port: 6000,
       //     unitId: 1);
-      // await asciiClient.connect();
+
       // final el = ModbusInt16Register(
       //   name: 'test02',
       //   address: 2,
