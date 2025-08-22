@@ -1,0 +1,17 @@
+name: modbus_client_serial_over_tcp
+description: This is the Modbus Client (ASCII and RTU) package sending requests to a remote device via TCP/IP connection.
+version: 1.0.0
+repository: https://github.com/FourLeafTec/modbus_client_serial_over_tcp
+
+environment:
+  sdk: '>=2.17.0 <4.0.0'
+
+# Add regular dependencies here.
+dependencies:
+  logging: ^1.2.0
+  synchronized: ^3.1.0
+  modbus_client: ^1.4.2
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
